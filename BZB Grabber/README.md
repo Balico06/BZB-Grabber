@@ -1,5 +1,5 @@
 <h1 align="center"> BZB Grabber </h1> 
-<p align= "center"> <kbd> <img  src="https://imgur.com/a/aYrJKZg"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://imgur.com/a/aYrJKZg.png"> </kbd><br><br>
 <p align="center"><a href="https://discord.gg/tPR4FM5qks" target="_blank">if you need help join discord server</a></p>
 <p align="center"><a href="https://github.com/Balico06" target="_blank">if you are infected</a></p>
 
